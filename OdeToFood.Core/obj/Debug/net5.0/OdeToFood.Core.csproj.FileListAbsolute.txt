@@ -1,0 +1,11 @@
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.deps.json
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.dll
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\ref\OdeToFood.Core.dll
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.pdb
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.dll
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\ref\OdeToFood.Core.dll
+C:\Users\jureeporn\Desktop\งานบิ๊ก\Programming\.NET\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.pdb
